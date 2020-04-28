@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.exe
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.deps.json
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.dll
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\bin\Debug\netcoreapp3.1\Random Arrays of Temperatures.pdb
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\obj\Debug\netcoreapp3.1\Random Arrays of Temperatures.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\obj\Debug\netcoreapp3.1\Random Arrays of Temperatures.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\obj\Debug\netcoreapp3.1\Random Arrays of Temperatures.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\obj\Debug\netcoreapp3.1\Random Arrays of Temperatures.dll
+C:\Users\pc\OneDrive\Desktop\Random Arrays of Temperatures\Random Arrays of Temperatures\obj\Debug\netcoreapp3.1\Random Arrays of Temperatures.pdb
